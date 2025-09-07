@@ -1,0 +1,14 @@
+names:
+- box
+- door
+- side
+nc: 3
+roboflow:
+  license: CC BY 4.0
+  project: dockingobjdet
+  url: https://universe.roboflow.com/mingkwans-dungeon/dockingobjdet/dataset/9
+  version: 9
+  workspace: mingkwans-dungeon
+test: /YOLOv8/datasets/Docking_data1/test/images
+train: /YOLOv8/datasets/Docking_data1/train/images
+val: /YOLOv8/datasets/Docking_data1/valid/images
