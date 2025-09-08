@@ -118,5 +118,9 @@ cap.release()
 cv2.destroyAllWindows()
 ```
 
+## Results
+
+![Image not loaded](resources/validation_results.jpg)
+
 ## References
 Getting help or more information on this topic can be done on the [ultralytics](https://docs.ultralytics.com/) main website which have more detail than you need. Or if you have any question to who in there damn mind wrote this code, you can contact me at rattanasiwamok.mingkwan.63y@st.kyoto-u.ac.jp :

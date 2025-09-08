@@ -1,0 +1,3 @@
+ultralytics >=8.0.20
+numpy >=1.18.5
+opencv-python >=4.1.1
