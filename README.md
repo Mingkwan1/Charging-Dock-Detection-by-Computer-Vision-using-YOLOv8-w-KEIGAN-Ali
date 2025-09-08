@@ -1,6 +1,6 @@
 # Training YOLOv8 for detection
 
-This is a guide to help user utilize YOLOv8 AI model to detect object, which in our case would be the dock of KEIGAN Ali.
+This is a guide to help user utilize YOLOv8 AI model to detect object, which in our case would be the charging dock of KEIGAN Ali by KEIGAN co. limited. More information on the project is written in NOTE.md
 
 ## Installation
 
