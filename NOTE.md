@@ -1,1 +1,2 @@
 This project was done during internship with KEIGAN co. limited in September 2024.
+It started with the idead that KEIGAN Ali should be able to judge its environment by itself so we start to test this feature.
